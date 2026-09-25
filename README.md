@@ -41,8 +41,18 @@ Automated and project tests are contained within the `test` directory.
 Platform-specific project files are included for Android, iOS, Windows, macOS, Linux and Web.
 
 ## Screenshots
+### Dashboard
+![Dashboard](dashboard.png)
 
-Screenshots of the application's main features will be added here.
+### Financial Insights
+![Financial Insights](insights.png)
+
+### Savings Recommendations
+![Savings Recommendations](savings_reccomendations.png)
+
+### Expense Management
+![Add Expense](add_expense.png)
+
 
 ## Getting Started
 
