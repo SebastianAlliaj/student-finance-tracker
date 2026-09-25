@@ -10,21 +10,26 @@ The application provides users with a centralised way to record and manage their
 
 ## Key Features
 
-* Income and expense tracking
-* Transaction categorisation
-* Budget management
-* Recurring transactions
-* Financial insights
-* Spending data visualisation
-* Budget alerts and notifications
-* Cross-platform application support
+- User login and account management
+- Income and expense tracking
+- Transaction categorisation
+- Local SQLite database storage
+- Budget monitoring and budget alerts
+- Savings goal tracking
+- Financial insights and spending breakdowns
+- Savings recommendations based on financial data
+- Configurable currency and application settings
+- Dark mode
+- Notification preferences
+- Data visualisation using charts
 
 ## Technologies
-
-* **Flutter**
-* **Dart**
-* **Git**
-* **GitHub**
+- **Flutter & Dart** — Cross-platform application development
+- **SQLite** — Local relational database for user and transaction data
+- **Provider** — Application state management
+- **SharedPreferences** — Persistent application settings
+- **Pie Chart** — Financial data visualisation
+- **Git & GitHub** — Version control and source code management
 
 ## Development
 
